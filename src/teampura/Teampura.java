@@ -18,6 +18,8 @@ public class Teampura {
         // GWAPO ko abram
         // try
         //test mic test
+        //AWA DO MAO NA NI?
+        System.out.println("TRY DAW HAHAHAHAHAHAHHAHA");
     }
 
 }
