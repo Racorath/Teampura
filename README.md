@@ -1,6 +1,6 @@
 Teampura Project:
-Bengil (Leader)
-Hortezano
-Sala
-Opinion
-Obeso
+Bengil (Leader),
+Hortezano,
+Sala,
+Opinion,
+Obeso,
